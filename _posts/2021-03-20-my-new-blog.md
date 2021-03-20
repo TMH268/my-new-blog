@@ -1,10 +1,10 @@
 
 ---
-layout: post
-title:  "我的第一篇文章"
-background: "/assets/images/0320.001.png"
-category: "工作"
-tags: 感悟 feature
+layout: post  
+title:  "我的第一篇文章"  
+background: "/assets/images/0320.001.png"  
+category: "学习"  
+tags: 感悟 feature  
 ---
 
 
