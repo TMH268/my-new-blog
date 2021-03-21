@@ -1,8 +1,8 @@
 
 ---
 layout: post  
-title: "科技遇见她"  
-image: assets/images/0320.001.png  
+title: "科技遇见她"    
+image: assets/images/001.png  
 category: "学习"  
 tags: 感悟 feature  
 ---
