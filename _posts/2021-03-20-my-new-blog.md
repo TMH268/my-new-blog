@@ -1,10 +1,12 @@
 
 ---
 layout: post  
-title:  "我的第一篇文章"  
-background: "/assets/images/0320.001.png"  
-category: "学习"  
-tags: 感悟 feature  
+title:  "科技遇见她"  
+images: "/assets/images/0320.001.png" 
+subitle:"分享我与科技的#HERstroy"
+category: "学习" 
+tags: 感悟 feature
+author:小狒子
 ---
 
 
