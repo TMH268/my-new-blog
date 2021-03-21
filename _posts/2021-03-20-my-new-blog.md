@@ -1,10 +1,9 @@
-
 ---
-layout: post  
-title: "科技遇见她"    
-image: assets/images/001.png  
-category: "学习"  
-tags: 感悟 feature  
+layout: post
+title:  "科技遇见她"
+background: "/assets/images/0320.001.png"
+category: "工作"
+tags: 感悟 feature
 ---
 
 
